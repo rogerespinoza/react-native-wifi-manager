@@ -115,7 +115,7 @@ export default class Screen1 extends Component {
         <Button
           title="hello"
           onPress={() => {
-            this.connectWithWifi();
+            this.fun2();
           }}
         />
         <Button
