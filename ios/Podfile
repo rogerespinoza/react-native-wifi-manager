@@ -8,6 +8,8 @@ target 'testApp631' do
 
   use_react_native!(:path => config["reactNativePath"])
 
+  pod 'react-native-ping', :path => '../node_modules/react-native-ping'
+
   target 'testApp631Tests' do
     inherit! :complete
     # Pods for testing

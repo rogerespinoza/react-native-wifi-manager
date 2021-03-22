@@ -13,6 +13,7 @@
     "react": "16.13.1",
     "react-native": "0.63.1",
     "react-native-inappbrowser-reborn": "^3.4.0",
+    "react-native-ping": "^1.2.6",
     "react-native-wifi-reborn": "^4.2.0"
   },
   "devDependencies": {

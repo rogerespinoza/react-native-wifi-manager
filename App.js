@@ -25,10 +25,11 @@ import {
 } from 'react-native/Libraries/NewAppScreen';
 
 import Screen1 from './Screen1';
+import Screen2 from './Screen2'
 
 const App: () => React$Node = () => {
   return (
-	<Screen1/>
+	<Screen2/>
   );
 };
 
